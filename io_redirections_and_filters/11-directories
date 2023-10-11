@@ -1,2 +1,2 @@
-#!/bin/bash
-find windepth 1 -type d | wc -l
+i#!/bin/bash
+find ./* -type d | wc -l
